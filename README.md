@@ -1,3 +1,5 @@
+**As [Jan Hovancik](https://hovancik.net/) has done a great job developing [Stretchly](https://github.com/hovancik/stretchly), I switched to this software and no longer use the bare script.**
+
 ### Pasho.py
 
 So you sit in front of your computer running linux OS for like several hours? Try this 
